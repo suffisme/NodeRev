@@ -1,5 +1,6 @@
 # NodeRev
-This C++ Program Basically Reverses the node by 'K'
+# This C++ Program Basically Reverses the node by 'K'
+
 For example :
 
 A. If no. of values is 8 and corresponding data is:
@@ -12,4 +13,4 @@ B. If no. of values is 11 and corresponding data is:
 and K=4
 Then Output : 2 7 5 4 6 3 9 4 1 4 8
 
-#The Given C++ Code uses concept of linked list to reverse the nodes
+# The Given C++ Code uses concept of linked list to reverse the nodes
